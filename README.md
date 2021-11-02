@@ -2,7 +2,7 @@
 
 ## ArabidopsisGenome
 
-1. listFirstGenes.PY
+1. listFirstGenes.py
 2. listProcessGenes.txt
 3. dataGeneModel.gff3
 4. enhancersRaw.txt
