@@ -1,0 +1,6 @@
+#chr	strand	tf	study	cell_line	bio_cond	level	promoter	proximal	cleavage	splice	exon	intron	intergenic
+1	*	DET1	GSE112951	Col-0-seedling	det1_5d-D	region	6	19	21	763	1375	988	37
+2	*	DET1	GSE112951	Col-0-seedling	det1_5d-D	region	3	12	19	405	756	544	29
+3	*	DET1	GSE112951	Col-0-seedling	det1_5d-D	region	5	14	21	601	977	793	34
+4	*	DET1	GSE112951	Col-0-seedling	det1_5d-D	region	4	11	13	428	794	599	20
+5	*	DET1	GSE112951	Col-0-seedling	det1_5d-D	region	9	12	29	654	1189	969	20

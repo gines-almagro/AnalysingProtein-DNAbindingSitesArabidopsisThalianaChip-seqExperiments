@@ -1,0 +1,2 @@
+BackgroundModel:ChSqM	statistic	Free Degree	p-value	-log_p-value	entropy.background	entropy.dataset
+BM:7dm:both:GSE112951:det1_5d-L	20799.152662726	6	0	10381.7702455342	2.32802314735707	1.73531604961985
