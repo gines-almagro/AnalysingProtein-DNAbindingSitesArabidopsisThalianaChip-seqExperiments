@@ -92,24 +92,24 @@ This folder containing all the standardized peaks with a peak_length = 31
 5. [DET1\_chr5\_standardised.bed](Remap2020/Standardised3120/DET1_chr5_standardised.bed)
 
 
-## DET1 
+## [DET1](DET1) 
 
 This folder containing all the annotated ChIPseq models and their corresponding analyses for this target protein
 
-### 7dm
+### [7dm](DET1/7dm)
 
-#### GSE112951
+#### [GSE112951](DET1/7dm/GSE112951)
 
 This folder containing the annotated ChIPseq models through the corresponding background model with the peak_length = 31 and rate_overlap = 0.2
 
-##### 5d-D
+##### [5d-D](DET1/7dm/GSE112951/5d-D)
 
 1. annotated\_peaks\_GSE112951\_Col-0-seedling\_5d-D\_both\_region.txt
 2. counting\_GSE112951\_Col-0-seedling\_5d-D\_both\_region.txt
 3. characteristic\_profile\_GSE112951\_Col-0-seedling\_5d-D\_both\_region.txt
 4. goodness\_test\_GSE112951\_Col-0-seedling\_5d-D\_both\_region.txt
 
-###### Figures
+###### [Figures](DET1/7dm/GSE112951/5d-D/Figures)
 
 1. grid\_relatFreq\_zScores\_GSE112951\_Col-0-seedling\_5d-D\_region.pdf
 2. relativeFreq\_GSE112951\_Col-0-seedling\_5d-D\_both\_region.pdf
