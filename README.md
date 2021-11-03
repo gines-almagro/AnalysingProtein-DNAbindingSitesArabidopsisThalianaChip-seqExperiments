@@ -115,47 +115,47 @@ This folder containing the annotated ChIPseq models through the corresponding ba
 2. relativeFreq\_GSE112951\_Col-0-seedling\_5d-D\_both\_region.pdf
 3. zScores\_GSE112951\_Col-0-seedling\_5d-D\_both\_region.pdf
 
-##### 5d-L
+##### [5d-L](DET1/7dm/GSE112951/5d-L)
 
 1. annotated\_peaks\_GSE112951\_Col-0-seedling\_5d-L\_both\_region.txt
 2. counting\_GSE112951\_Col-0-seedling\_5d-L\_both\_region.txt
 3. characteristic\_profile\_GSE112951\_Col-0-seedling\_5d-L\_both\_region.txt
 4. goodness\_test\_GSE112951\_Col-0-seedling\_5d-L\_both\_region.txt
 
-###### Figures
+###### [Figures](DET1/7dm/GSE112951/5d-L/Figures)
 
 1. grid\_relatFreq\_zScores\_GSE112951\_Col-0-seedling\_5d-L\_region.pdf
 2. relativeFreq\_GSE112951\_Col-0-seedling\_5d-L\_both\_region.pdf
 3. zScores\_GSE112951\_Col-0-seedling\_5d-L\_both\_region.pdf
 
-##### det1\_5d-D
+##### [det1\_5d-D](DET1/7dm/GSE112951/det1_5d-D)
 
 1. annotated\_peaks\_GSE112951\_Col-0-seedling\_det1\_5d-D\_both\_region.txt
 2. counting\_GSE112951\_Col-0-seedling\_det1\_5d-D\_both\_region.txt
 3. characteristic\_profile\_GSE112951\_Col-0-seedling\_det1\_5d-D\_both\_region.txt
 4. goodness\_test\_GSE112951\_Col-0-seedling\_det1\_5d-D\_both\_region.txt
 
-###### Figures
+###### [Figures](DET1/7dm/GSE112951/det1_5d-D/Figures)
 
 1. grid\_relatFreq\_zScores\_GSE112951\_Col-0-seedling\_det1\_5d-D\_region.pdf
 2. relativeFreq\_GSE112951\_Col-0-seedling\_det1\_5d-D\_both\_region.pdf
 3. zScores\_GSE112951\_Col-0-seedling\_det1\_5d-D\_both\_region.pdf
 
 
-##### det1\_5d-D
+##### [det1\_5d-L](DET1/7dm/GSE112951/det1_5d-L)
 
 1. annotated\_peaks\_GSE112951\_Col-0-seedling\_det1\_5d-L\_both\_region.txt
 2. counting\_GSE112951\_Col-0-seedling\_det1\_5d-L\_both\_region.txt
 3. characteristic\_profile\_GSE112951\_Col-0-seedling\_det1\_5d-L\_both\_region.txt
 4. goodness\_test\_GSE112951\_Col-0-seedling\_det1\_5d-L\_both\_region.txt
 
-###### Figures
+###### [Figures](DET1/7dm/GSE112951/det1_5d-L/Figures)
 
 1. grid\_relatFreq\_zScores\_GSE112951\_Col-0-seedling\_det1\_5d-L\_region.pdf
 2. relativeFreq\_GSE112951\_Col-0-seedling\_det1\_5d-L\_both\_region.pdf
 3. zScores\_GSE112951\_Col-0-seedling\_det1\_5d-L\_both\_region.pdf
 
-##### Analysis
+##### [Analysis](DET1/7dm/GSE112951/Analysis)
 
 A folder containing the comparisons between the different ChIPseq model pairs for the background model with 7 dimensions
 
