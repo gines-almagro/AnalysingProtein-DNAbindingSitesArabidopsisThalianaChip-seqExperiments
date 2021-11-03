@@ -59,20 +59,20 @@ This folder containing the background genes gathered by chromosome
 
 This folder containing the background models for the genome model with 8 kinds of genomic features {promoter>proximal>enhancer>cleavage>splice>exon>intron>intergenic}.
 
-1. annotated\_genome\_both\_model.txt
+1. [annotated\_genome\_both\_model.txt](ArabidopsisGenome/BM3120/8dm/annotated_genome_both_model.txt)
     * A tab-delimited text file for both strands with the binding sites annotated by chromosome
-2. count\_genome\_both\_model.txt
+2. [count\_genome\_both\_model.txt](ArabidopsisGenome/BM3120/8dm/count_genome_both_model.txt)
     * A tab-delimited text file for both strands with the annotated binding sites count by each type of genomic feature and chromosome
 
 ##### [PeakEnhancers](ArabidopsisGenome/BM3120/8dm/PeakEnhancers)
 
 This folder containing the annotated enhancers regions gathered by chromosome
 
-1. enhancer\_chr1\_peaks.txt
-2. enhancer\_chr2\_peaks.txt
-3. enhancer\_chr3\_peaks.txt
-4. enhancer\_chr4\_peaks.txt
-5. enhancer\_chr5\_peaks.txt
+1. [enhancer\_chr1\_peaks.txt](ArabidopsisGenome/BM3120/8dm/PeakEnhancers/enhancer_chr1_peaks.txt)
+2. [enhancer\_chr2\_peaks.txt](ArabidopsisGenome/BM3120/8dm/PeakEnhancers/enhancer_chr2_peaks.txt)
+3. [enhancer\_chr3\_peaks.txt](ArabidopsisGenome/BM3120/8dm/PeakEnhancers/enhancer_chr3_peaks.txt)
+4. [enhancer\_chr4\_peaks.txt](ArabidopsisGenome/BM3120/8dm/PeakEnhancers/enhancer_chr4_peaks.txt)
+5. [enhancer\_chr5\_peaks.txt](ArabidopsisGenome/BM3120/8dm/PeakEnhancers/enhancer_chr5_peaks.txt)
 
 ## Remap2020
 
