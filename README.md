@@ -182,88 +182,89 @@ A folder containing the comparisons between the different ChIPseq model pairs fo
 6. [accumContrbsquar\_Col-0-seedling\_DET1-5d-L\_DET1-det1\_5d-D\_both\_region.pdf](DET1/7dm/GSE112951/Analysis/Figures/accumContrbSquar_Col-0-seedling_DET1-5d-L_DET1-det1_5d-D_both_region.pdf)
 2. [accumContrbsquar\_Col-0-seedling\_DET1-det1\_5d-D\_DET1-det1\_5d-L\_both\_region.pdf](DET1/7dm/GSE112951/Analysis/Figures/accumContrbSquar_Col-0-seedling_DET1-det1_5d-D_DET1-det1_5d-L_both_region.pdf)
 
-### 8dm
+### [8dm](DET1/8dm)
 
-#### GSE112951
+#### [GSE112951](DET1/8dm/GSE112951)
 
-This folder containing the annotated ChiPseq models through the corresponding background model with the peak_length = 31 and rate_overlap = 0.2
+This folder containing the annotated ChIPseq models through the corresponding background model with the peak_length = 31 and rate_overlap = 0.2
 
-##### 5d-D
+##### [5d-D](DET1/8dm/GSE112951/5d-D)
 
-1. annotated\_peaks\_GSE112951\_Col-0-seedling\_5d-D\_both\_region.txt
-2. counting\_GSE112951\_Col-0-seedling\_5d-D\_both\_region.txt
-3. characteristic\_profile\_GSE112951\_Col-0-seedling\_5d-D\_both\_region.txt
-4. goodness\_test\_GSE112951\_Col-0-seedling\_5d-D\_both\_region.txt
+1. [annotated\_peaks\_GSE112951\_Col-0-seedling\_5d-D\_both\_region.txt](DET1/8dm/GSE112951/5d-D/annotated_peaks_GSE112951_Col-0-seedling_5d-D_both_region.txt)
+2. [counting\_GSE112951\_Col-0-seedling\_5d-D\_both\_region.txt](DET1/8dm/GSE112951/5d-D/counting_GSE112951_Col-0-seedling_5d-D_both_region.txt)
+3. [characteristic\_profile\_GSE112951\_Col-0-seedling\_5d-D\_both\_region.txt](DET1/8dm/GSE112951/5d-D/characteristic_profile_GSE112951_Col-0-seedling_5d-D_both_region.txt)
+4. [goodness\_test\_GSE112951\_Col-0-seedling\_5d-D\_both\_region.txt](DET1/8dm/GSE112951/5d-D/goodness_test_GSE112951_Col-0-seedling_5d-D_both_region.txt)
 
-###### Figures
+###### [Figures](DET1/8dm/GSE112951/5d-D/Figures)
 
-1. grid\_relatFreq\_zScores\_GSE112951\_Col-0-seedling\_5d-D\_region.pdf
-2. relativeFreq\_GSE112951\_Col-0-seedling\_5d-D\_both\_region.pdf
-3. zScores\_GSE112951\_Col-0-seedling\_5d-D\_both\_region.pdf
+1. [grid\_relatFreq\_zScores\_GSE112951\_Col-0-seedling\_5d-D\_region.pdf](DET1/8dm/GSE112951/5d-D/Figures/grid_relatFreq_zScores_GSE112951_Col-0-seedling_5d-D_region.pdf)
+2. [relativeFreq\_GSE112951\_Col-0-seedling\_5d-D\_both\_region.pdf](DET1/8dm/GSE112951/5d-D/Figures/relativeFreq_GSE112951_Col-0-seedling_5d-D_both_region.pdf)
+3. [zScores\_GSE112951\_Col-0-seedling\_5d-D\_both\_region.pdf](DET1/8dm/GSE112951/5d-D/Figures/zScore_GSE112951_Col-0-seedling_5d-D_both_region.pdf)
 
-##### 5d-L
+##### [5d-L](DET1/8dm/GSE112951/5d-L)
 
-1. annotated\_peaks\_GSE112951\_Col-0-seedling\_5d-L\_both\_region.txt
-2. counting\_GSE112951\_Col-0-seedling\_5d-L\_both\_region.txt
-3. characteristic\_profile\_GSE112951\_Col-0-seedling\_5d-L\_both\_region.txt
-4. goodness\_test\_GSE112951\_Col-0-seedling\_5d-L\_both\_region.txt
+1. [annotated\_peaks\_GSE112951\_Col-0-seedling\_5d-L\_both\_region.txt](DET1/8dm/GSE112951/5d-L/annotated_peaks_GSE112951_Col-0-seedling_5d-L_both_region.txt)
+2. [counting\_GSE112951\_Col-0-seedling\_5d-L\_both\_region.txt](DET1/8dm/GSE112951/5d-L/counting_GSE112951_Col-0-seedling_5d-L_both_region.txt)
+3. [characteristic\_profile\_GSE112951\_Col-0-seedling\_5d-L\_both\_region.txt](DET1/8dm/GSE112951/5d-L/characteristic_profile_GSE112951_Col-0-seedling_5d-L_both_region.txt)
+4. [goodness\_test\_GSE112951\_Col-0-seedling\_5d-L\_both\_region.txt](DET1/8dm/GSE112951/5d-L/goodness_test_GSE112951_Col-0-seedling_5d-L_both_region.txt)
 
-###### Figures
+###### [Figures](DET1/8dm/GSE112951/5d-L/Figures)
 
-1. grid\_relatFreq\_zScores\_GSE112951\_Col-0-seedling\_5d-L\_region.pdf
-2. relativeFreq\_GSE112951\_Col-0-seedling\_5d-L\_both\_region.pdf
-3. zScores\_GSE112951\_Col-0-seedling\_5d-L\_both\_region.pdf
+1. [grid\_relatFreq\_zScores\_GSE112951\_Col-0-seedling\_5d-L\_region.pdf](DET1/8dm/GSE112951/5d-L/Figures/grid_relatFreq_zScores_GSE112951_Col-0-seedling_5d-L_region.pdf)
+2. [relativeFreq\_GSE112951\_Col-0-seedling\_5d-L\_both\_region.pdf](DET1/8dm/GSE112951/5d-L/Figures/relativeFreq_GSE112951_Col-0-seedling_5d-L_both_region.pdf)
+3. [zScores\_GSE112951\_Col-0-seedling\_5d-L\_both\_region.pdf](DET1/8dm/GSE112951/5d-L/Figures/zScore_GSE112951_Col-0-seedling_5d-L_both_region.pdf)
 
-##### det1\_5d-D
+##### [det1\_5d-D](DET1/8dm/GSE112951/det1_5d-D)
 
-1. annotated\_peaks\_GSE112951\_Col-0-seedling\_det1\_5d-D\_both\_region.txt
-2. counting\_GSE112951\_Col-0-seedling\_det1\_5d-D\_both\_region.txt
-3. characteristic\_profile\_GSE112951\_Col-0-seedling\_det1\_5d-D\_both\_region.txt
-4. goodness\_test\_GSE112951\_Col-0-seedling\_det1\_5d-D\_both\_region.txt
+1. [annotated\_peaks\_GSE112951\_Col-0-seedling\_det1\_5d-D\_both\_region.txt](DET1/8dm/GSE112951/det1_5d-D/annotated_peaks_GSE112951_Col-0-seedling_det1_5d-D_both_region.txt)
+2. [counting\_GSE112951\_Col-0-seedling\_det1\_5d-D\_both\_region.txt](DET1/8dm/GSE112951/det1_5d-D/counting_GSE112951_Col-0-seedling_det1_5d-D_both_region.txt)
+3. [characteristic\_profile\_GSE112951\_Col-0-seedling\_det1\_5d-D\_both\_region.txt](DET1/8dm/GSE112951/det1_5d-D/characteristic_profile_GSE112951_Col-0-seedling_det1_5d-D_both_region.txt)
+4. [goodness\_test\_GSE112951\_Col-0-seedling\_det1\_5d-D\_both\_region.txt](DET1/8dm/GSE112951/det1_5d-D/goodness_test_GSE112951_Col-0-seedling_det1_5d-D_both_region.txt)
 
-###### Figures
+###### [Figures](DET1/8dm/GSE112951/det1_5d-D/Figures)
 
-1. grid\_relatFreq\_zScores\_GSE112951\_Col-0-seedling\_det1\_5d-D\_region.pdf
-2. relativeFreq\_GSE112951\_Col-0-seedling\_det1\_5d-D\_both\_region.pdf
-3. zScores\_GSE112951\_Col-0-seedling\_det1\_5d-D\_both\_region.pdf
+1. [grid\_relatFreq\_zScores\_GSE112951\_Col-0-seedling\_det1\_5d-D\_region.pdf](DET1/8dm/GSE112951/det1_5d-D/Figures/grid_relatFreq_zScores_GSE112951_Col-0-seedling_det1_5d-D_region.pdf)
+2. [relativeFreq\_GSE112951\_Col-0-seedling\_det1\_5d-D\_both\_region.pdf](DET1/8dm/GSE112951/det1_5d-D/Figures/relativeFreq_GSE112951_Col-0-seedling_det1_5d-D_both_region.pdf)
+3. [zScores\_GSE112951\_Col-0-seedling\_det1\_5d-D\_both\_region.pdf](DET1/8dm/GSE112951/det1_5d-D/Figures/zScore_GSE112951_Col-0-seedling_det1_5d-D_both_region.pdf)
 
 
-##### det1\_5d-D
+##### [det1\_5d-L](DET1/8dm/GSE112951/det1_5d-L)
 
-1. annotated\_peaks\_GSE112951\_Col-0-seedling\_det1\_5d-L\_both\_region.txt
-2. counting\_GSE112951\_Col-0-seedling\_det1\_5d-L\_both\_region.txt
-3. characteristic\_profile\_GSE112951\_Col-0-seedling\_det1\_5d-L\_both\_region.txt
-4. goodness\_test\_GSE112951\_Col-0-seedling\_det1\_5d-L\_both\_region.txt
+1. [annotated\_peaks\_GSE112951\_Col-0-seedling\_det1\_5d-L\_both\_region.txt](DET1/8dm/GSE112951/det1_5d-L/annotated_peaks_GSE112951_Col-0-seedling_det1_5d-L_both_region.txt)
+2. [counting\_GSE112951\_Col-0-seedling\_det1\_5d-L\_both\_region.txt](DET1/8dm/GSE112951/det1_5d-L/counting_GSE112951_Col-0-seedling_det1_5d-L_both_region.txt)
+3. [characteristic\_profile\_GSE112951\_Col-0-seedling\_det1\_5d-L\_both\_region.txt](DET1/8dm/GSE112951/det1_5d-L/characteristic_profile_GSE112951_Col-0-seedling_det1_5d-L_both_region.txt)
+4. [goodness\_test\_GSE112951\_Col-0-seedling\_det1\_5d-L\_both\_region.txt](DET1/8dm/GSE112951/det1_5d-L/goodness_test_GSE112951_Col-0-seedling_det1_5d-L_both_region.txt)
 
-###### Figures
+###### [Figures](DET1/8dm/GSE112951/det1_5d-L/Figures)
 
-1. grid\_relatFreq\_zScores\_GSE112951\_Col-0-seedling\_det1\_5d-L\_region.pdf
-2. relativeFreq\_GSE112951\_Col-0-seedling\_det1\_5d-L\_both\_region.pdf
-3. zScores\_GSE112951\_Col-0-seedling\_det1\_5d-L\_both\_region.pdf
+1. [grid\_relatFreq\_zScores\_GSE112951\_Col-0-seedling\_det1\_5d-L\_region.pdf](DET1/8dm/GSE112951/det1_5d-L/Figures/grid_relatFreq_zScores_GSE112951_Col-0-seedling_det1_5d-L_region.pdf)
+2. [relativeFreq\_GSE112951\_Col-0-seedling\_det1\_5d-L\_both\_region.pdf](DET1/8dm/GSE112951/det1_5d-L/Figures/relativeFreq_GSE112951_Col-0-seedling_det1_5d-L_both_region.pdf)
+3. [zScores\_GSE112951\_Col-0-seedling\_det1\_5d-L\_both\_region.pdf](DET1/8dm/GSE112951/det1_5d-L/Figures/zScore_GSE112951_Col-0-seedling_det1_5d-L_both_region.pdf)
 
-##### Analysis
+##### [Analysis](DET1/8dm/GSE112951/Analysis)
 
 A folder containing the comparisons between the different ChIPseq model pairs for the background model with 8 dimensions
 
-1. homogeneity\_test\_Col-0-seedling\_DET1-5d-D\_DET1-det1\_5d-L\_both\_region.txt
-2. homogeneity\_test\_Col-0-seedling\_DET1-5d-D\_DET1-det1\_5d-D\_both\_region.txt
-3. homogeneity\_test\_Col-0-seedling\_DET1-5d-L\_DET1-5d-D\_both\_region.txt
-4. homogeneity\_test\_Col-0-seedling\_DET1-5d-L\_DET1-det1\_5d-L\_both\_region.txt
-5. homogeneity\_test\_Col-0-seedling\_DET1-5d-L\_DET1-det1\_5d-D\_both\_region.txt
-6. homogeneity\_test\_Col-0-seedling\_DET1-det1\_5d-D\_DET1-det1\_5d-L\_both\_region.txt
-7. statistics_homogeneity\_Col-0-seedling\_DET1-5d-D\_DET1-det1\_5d-L\_both\_region.txt
-8. statistics_homogeneity\_Col-0-seedling\_DET1-5d-D\_DET1-det1\_5d-D\_both\_region.txt
-9. statistics_homogeneity\_Col-0-seedling\_DET1-5d-L\_DET1-5d-D\_both\_region.txt
-10. statistics_homogeneity\_Col-0-seedling\_DET1-5d-L\_DET1-det1\_5d-L\_both\_region.txt
-11. statistics_homogeneity\_Col-0-seedling\_DET1-5d-L\_DET1-det1\_5d-D\_both\_region.txt
-12. statistics_homogeneity\_Col-0-seedling\_DET1-det1\_5d-D\_DET1-det1\_5d-L\_both\_region.txt
+1. [homogeneity\_test\_Col-0-seedling\_DET1-5d-D\_DET1-det1\_5d-L\_both\_region.txt](DET1/8dm/GSE112951/Analysis/homogeneity_test_Col-0-seedling_DET1-5d-D_DET1-det1_5d-L_both_region.txt)
+2. [homogeneity\_test\_Col-0-seedling\_DET1-5d-D\_DET1-det1\_5d-D\_both\_region.txt](DET1/8dm/GSE112951/Analysis/homogeneity_test_Col-0-seedling_DET1-5d-D_DET1-det1_5d-D_both_region.txt)
+3. [homogeneity\_test\_Col-0-seedling\_DET1-5d-L\_DET1-5d-D\_both\_region.txt](DET1/8dm/GSE112951/Analysis/homogeneity_test_Col-0-seedling_DET1-5d-L_DET1-5d-D_both_region.txt)
+4. [homogeneity\_test\_Col-0-seedling\_DET1-5d-L\_DET1-det1\_5d-L\_both\_region.txt](DET1/8dm/GSE112951/Analysis/homogeneity_test_Col-0-seedling_DET1-5d-L_DET1-det1_5d-L_both_region.txt)
+5. [homogeneity\_test\_Col-0-seedling\_DET1-5d-L\_DET1-det1\_5d-D\_both\_region.txt](DET1/8dm/GSE112951/Analysis/homogeneity_test_Col-0-seedling_DET1-5d-L_DET1-det1_5d-D_both_region.txt)
+6. [homogeneity\_test\_Col-0-seedling\_DET1-det1\_5d-D\_DET1-det1\_5d-L\_both\_region.txt](DET1/8dm/GSE112951/Analysis/homogeneity_test_Col-0-seedling_DET1-det1_5d-D_DET1-det1_5d-L_both_region.txt)
+7. [statistics_homogeneity\_Col-0-seedling\_DET1-5d-D\_DET1-det1\_5d-L\_both\_region.txt](DET1/8dm/GSE112951/Analysis/statistics_homogeneity_Col-0-seedling_DET1-5d-D_DET1-det1_5d-L_both_region.txt)
+8. [statistics_homogeneity\_Col-0-seedling\_DET1-5d-D\_DET1-det1\_5d-D\_both\_region.txt](DET1/8dm/GSE112951/Analysis/statistics_homogeneity_Col-0-seedling_DET1-5d-D_DET1-det1_5d-D_both_region.txt)
+9. [statistics_homogeneity\_Col-0-seedling\_DET1-5d-L\_DET1-5d-D\_both\_region.txt](DET1/8dm/GSE112951/Analysis/statistics_homogeneity_Col-0-seedling_DET1-5d-L_DET1-5d-D_both_region.txt)
+10. [statistics_homogeneity\_Col-0-seedling\_DET1-5d-L\_DET1-det1\_5d-L\_both\_region.txt](DET1/8dm/GSE112951/Analysis/statistics_homogeneity_Col-0-seedling_DET1-5d-L_DET1-det1_5d-L_both_region.txt)
+11. [statistics_homogeneity\_Col-0-seedling\_DET1-5d-L\_DET1-det1\_5d-D\_both\_region.txt](DET1/8dm/GSE112951/Analysis/statistics_homogeneity_Col-0-seedling_DET1-5d-L_DET1-det1_5d-D_both_region.txt)
+12. [statistics_homogeneity\_Col-0-seedling\_DET1-det1\_5d-D\_DET1-det1\_5d-L\_both\_region.txt](DET1/8dm/GSE112951/Analysis/statistics_homogeneity_Col-0-seedling_DET1-det1_5d-L_DET1-det1_5d-D_both_region.txt)
 
-###### Figures
+###### [Figures](DET1/8dm/GSE112951/Analysis/Figures)
 
-1. gridmultipleAccumContrbHomogeneityJoint\_GSE112951\_Col-0-seedling\_both\_region.pdf
-2. accumContrbsquar\_Col-0-seedling\_DET1-5d-D\_DET1-det1\_5d-L\_both\_region.pdf
-3. accumContrbsquar\_Col-0-seedling\_DET1-5d-D\_DET1-det1\_5d-D\_both\_region.pdf
-4. accumContrbsquar\_Col-0-seedling\_DET1-5d-L\_DET1-5d-D\_both\_region.pdf
-5. accumContrbsquar\_Col-0-seedling\_DET1-5d-L\_DET1-det1\_5d-L\_both\_region.pdf
-6. accumContrbsquar\_Col-0-seedling\_DET1-5d-L\_DET1-det1\_5d-D\_both\_region.pdf
-2. accumContrbsquar\_Col-0-seedling\_DET1-det1\_5d-D\_DET1-det1\_5d-L\_both\_region.pdf
+1. [gridmultipleAccumContrbHomogeneityJoint\_GSE112951\_Col-0-seedling\_both\_region.pdf](DET1/8dm/GSE112951/Analysis/Figures/gridmultipleAccumContrbHomogeneityJoint_GSE112951_Col-0-seedling_both_region.pdf)
+2. [accumContrbsquar\_Col-0-seedling\_DET1-5d-D\_DET1-det1\_5d-L\_both\_region.pdf](DET1/8dm/GSE112951/Analysis/Figures/accumContrbSquar_Col-0-seedling_DET1-5d-D_DET1-det1_5d-L_both_region.pdf)
+3. [accumContrbsquar\_Col-0-seedling\_DET1-5d-D\_DET1-det1\_5d-D\_both\_region.pdf](DET1/8dm/GSE112951/Analysis/Figures/accumContrbSquar_Col-0-seedling_DET1-5d-D_DET1-det1_5d-D_both_region.pdf)
+4. [accumContrbsquar\_Col-0-seedling\_DET1-5d-L\_DET1-5d-D\_both\_region.pdf](DET1/8dm/GSE112951/Analysis/Figures/accumContrbSquar_Col-0-seedling_DET1-5d-L_DET1-5d-D_both_region.pdf)
+5. [accumContrbsquar\_Col-0-seedling\_DET1-5d-L\_DET1-det1\_5d-L\_both\_region.pdf](DET1/8dm/GSE112951/Analysis/Figures/accumContrbSquar_Col-0-seedling_DET1-5d-L_DET1-det1_5d-L_both_region.pdf)
+6. [accumContrbsquar\_Col-0-seedling\_DET1-5d-L\_DET1-det1\_5d-D\_both\_region.pdf](DET1/8dm/GSE112951/Analysis/Figures/accumContrbSquar_Col-0-seedling_DET1-5d-L_DET1-det1_5d-D_both_region.pdf)
+2. [accumContrbsquar\_Col-0-seedling\_DET1-det1\_5d-D\_DET1-det1\_5d-L\_both\_region.pdf](DET1/8dm/GSE112951/Analysis/Figures/accumContrbSquar_Col-0-seedling_DET1-det1_5d-D_DET1-det1_5d-L_both_region.pdf)
+
