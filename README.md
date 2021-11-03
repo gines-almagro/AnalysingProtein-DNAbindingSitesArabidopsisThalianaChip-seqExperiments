@@ -78,8 +78,8 @@ This folder containing the annotated enhancers regions gathered by chromosome
 
 This folder containing all the raw peaks corresponding to the protein DET1 and cell line Col-0-seedling collected from [Remap2020](https://remap2020.univ-amu.fr/).
 
-1. remap2020\_DET1\_all\_macs2\_TAIR10\_v1\_0.bed.gz (zip file)
-2. remap2020\_DET1\_all\_macs2\_TAIR10\_v1\_0.bed
+1. [remap2020\_DET1\_all\_macs2\_TAIR10\_v1\_0.bed.gz](Remap2020/remap2020_DET1_all_macs2_TAIR10_v1_0.bed.gz) (zip file)
+2. [remap2020\_DET1\_all\_macs2\_TAIR10\_v1\_0.bed](Remap2020/remap2020_DET1_all_macs2_TAIR10_v1_0.bed)
 
 ### Standardised3120
 
