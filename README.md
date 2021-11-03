@@ -17,17 +17,17 @@ This folder contains the files used in this work, which contain all the informat
 6. [gapsTair10.py](ArabidopsisGenome/gapsTair10.py)
     * File derived from the previous one containing the gaps of the genome under study with a length greater than 10 nucleotides.
 
-### Processed
+### [Processed](ArabidopsisGenome/Processed)
 
 This folder contains the gene models gathered by chromosome, describing the extent of their genomic features for the selected transcript.
 
-1. gene\_chr1\_processed.bed
-2. gene\_chr2\_processed.bed
-3. gene\_chr3\_processed.bed
-4. gene\_chr4\_processed.bed
-5. gene\_chr5\_processed.bed
-6. gene\_chrMt\_processed.bed
-7. gene\_chrPt\_processed.bed
+1. [gene\_chr1\_processed.bed](ArabidopsisGenome/Processed/gene_chr1_processed.bed)
+2. [gene\_chr2\_processed.bed](ArabidopsisGenome/Processed/gene_chr2_processed.bed)
+3. [gene\_chr3\_processed.bed](ArabidopsisGenome/Processed/gene_chr3_processed.bed)
+4. [gene\_chr4\_processed.bed](ArabidopsisGenome/Processed/gene_chr4_processed.bed)
+5. [gene\_chr5\_processed.bed](ArabidopsisGenome/Processed/gene_chr5_processed.bed)
+6. [gene\_chrMt\_processed.bed](ArabidopsisGenome/Processed/gene_chrMt_processed.bed)
+7. [gene\_chrPt\_processed.bed](ArabidopsisGenome/Processed/gene_chrPt_processed.bed)
 
 ### BM3120
 
