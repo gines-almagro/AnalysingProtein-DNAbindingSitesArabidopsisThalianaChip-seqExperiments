@@ -81,7 +81,7 @@ This folder containing all the raw peaks corresponding to the protein DET1 and c
 1. [remap2020\_DET1\_all\_macs2\_TAIR10\_v1\_0.bed.gz](Remap2020/remap2020_DET1_all_macs2_TAIR10_v1_0.bed.gz) (zip file)
 2. [remap2020\_DET1\_all\_macs2\_TAIR10\_v1\_0.bed](Remap2020/remap2020_DET1_all_macs2_TAIR10_v1_0.bed)
 
-### Standardised3120
+### [Standardised3120](Remap2020/Standardised3120)
 
 This folder containing all the standardized peaks with a peak_length = 31
 
