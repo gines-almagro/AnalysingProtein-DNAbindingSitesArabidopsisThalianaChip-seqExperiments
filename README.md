@@ -35,25 +35,25 @@ This folder contains the gene models gathered by chromosome, describing the exte
 
 This folder containing the background models for the genome model with 7 kinds of genomic features {promoter>proximal>cleavage>splice>exon>intron>intergenic}.
 
-1. annotated\_genome\_both\_model.txt
+1. [annotated\_genome\_both\_model.txt](ArabidopsisGenome/BM3120/7dm/annotated_genome_both_model.txt)
     * A tab-delimited text file for both strands with the binding sites annotated by chromosome
-2. count\_genome\_both\_model.txt
+2. [count\_genome\_both\_model.txt](ArabidopsisGenome/BM3120/7dm/count_genome_both_model.txt)
     * A tab-delimited text file for both strands with the annotated binding sites count by each type of genomic feature and chromosome
 
 ##### [GM](ArabidopsisGenome/BM3120/7dm/GM)
 
-1. count\_gene\_model.txt
+1. [count\_gene\_model.txt](ArabidopsisGenome/BM3120/7dm/GM/count_gene_model.txt)
     * A tab-delimited text file with the annotated binding sites count by each type of genomic feature for every background gene
 
 ###### [AnnotatedGenes](ArabidopsisGenome/BM3120/7dm/GM/AnnotatedGenes)
 
 This folder containing the background genes gathered by chromosome
 
-1. gene\_chr1\_annotated.txt
-2. gene\_chr2\_annotated.txt
-3. gene\_chr3\_annotated.txt
-4. gene\_chr4\_annotated.txt
-5. gene\_chr5\_annotated.txt
+1. [gene\_chr1\_annotated.txt](ArabidopsisGenome/BM3120/7dm/GM/AnnotatedGenes/gene_chr1_annotated.txt)
+2. [gene\_chr2\_annotated.txt](ArabidopsisGenome/BM3120/7dm/GM/AnnotatedGenes/gene_chr2_annotated.txt)
+3. [gene\_chr3\_annotated.txt](ArabidopsisGenome/BM3120/7dm/GM/AnnotatedGenes/gene_chr3_annotated.txt)
+4. [gene\_chr4\_annotated.txt](ArabidopsisGenome/BM3120/7dm/GM/AnnotatedGenes/gene_chr4_annotated.txt)
+5. [gene\_chr5\_annotated.txt](ArabidopsisGenome/BM3120/7dm/GM/AnnotatedGenes/gene_chr5_annotated.txt)
 
 #### [8dm](ArabidopsisGenome/BM3120/8dm)
 
