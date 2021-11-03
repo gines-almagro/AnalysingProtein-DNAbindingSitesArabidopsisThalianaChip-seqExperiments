@@ -85,11 +85,11 @@ This folder containing all the raw peaks corresponding to the protein DET1 and c
 
 This folder containing all the standardized peaks with a peak_length = 31
 
-1. DET1\_chr1\_standardised.bed
-2. DET1\_chr2\_standardised.bed
-3. DET1\_chr3\_standardised.bed
-4. DET1\_chr4\_standardised.bed
-5. DET1\_chr5\_standardised.bed
+1. [DET1\_chr1\_standardised.bed](Remap2020/Standardised3120/DET1_chr1_standardised.bed)
+2. [DET1\_chr2\_standardised.bed](Remap2020/Standardised3120/DET1_chr2_standardised.bed)
+3. [DET1\_chr3\_standardised.bed](Remap2020/Standardised3120/DET1_chr3_standardised.bed)
+4. [DET1\_chr4\_standardised.bed](Remap2020/Standardised3120/DET1_chr4_standardised.bed)
+5. [DET1\_chr5\_standardised.bed](Remap2020/Standardised3120/DET1_chr5_standardised.bed)
 
 
 ## DET1 
