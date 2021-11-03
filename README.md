@@ -130,16 +130,16 @@ This folder containing the annotated ChIPseq models through the corresponding ba
 
 ##### [det1\_5d-D](DET1/7dm/GSE112951/det1_5d-D)
 
-1. annotated\_peaks\_GSE112951\_Col-0-seedling\_det1\_5d-D\_both\_region.txt
-2. counting\_GSE112951\_Col-0-seedling\_det1\_5d-D\_both\_region.txt
-3. characteristic\_profile\_GSE112951\_Col-0-seedling\_det1\_5d-D\_both\_region.txt
-4. goodness\_test\_GSE112951\_Col-0-seedling\_det1\_5d-D\_both\_region.txt
+1. [annotated\_peaks\_GSE112951\_Col-0-seedling\_det1\_5d-D\_both\_region.txt](DET1/7dm/GSE112951/det1_5d-D/annotated_peaks_GSE112951_Col-0-seedling_det1_5d-D_both_region.txt)
+2. [counting\_GSE112951\_Col-0-seedling\_det1\_5d-D\_both\_region.txt](DET1/7dm/GSE112951/det1_5d-D/counting_GSE112951_Col-0-seedling_det1_5d-D_both_region.txt)
+3. [characteristic\_profile\_GSE112951\_Col-0-seedling\_det1\_5d-D\_both\_region.txt](DET1/7dm/GSE112951/det1_5d-D/characteristic_profile_GSE112951_Col-0-seedling_det1_5d-D_both_region.txt)
+4. [goodness\_test\_GSE112951\_Col-0-seedling\_det1\_5d-D\_both\_region.txt](DET1/7dm/GSE112951/det1_5d-D/goodness_test_GSE112951_Col-0-seedling_det1_5d-D_both_region.txt)
 
 ###### [Figures](DET1/7dm/GSE112951/det1_5d-D/Figures)
 
-1. grid\_relatFreq\_zScores\_GSE112951\_Col-0-seedling\_det1\_5d-D\_region.pdf
-2. relativeFreq\_GSE112951\_Col-0-seedling\_det1\_5d-D\_both\_region.pdf
-3. zScores\_GSE112951\_Col-0-seedling\_det1\_5d-D\_both\_region.pdf
+1. [grid\_relatFreq\_zScores\_GSE112951\_Col-0-seedling\_det1\_5d-D\_region.pdf](DET1/7dm/GSE112951/det1_5d-D/Figures/grid_relatFreq_zScores_GSE112951_Col-0-seedling_det1_5d-D_region.pdf)
+2. [relativeFreq\_GSE112951\_Col-0-seedling\_det1\_5d-D\_both\_region.pdf](DET1/7dm/GSE112951/det1_5d-D/Figures/relativeFreq_GSE112951_Col-0-seedling_det1_5d-D_both_region.pdf)
+3. [zScores\_GSE112951\_Col-0-seedling\_det1\_5d-D\_both\_region.pdf](DET1/7dm/GSE112951/det1_5d-D/Figures/zScore_GSE112951_Col-0-seedling_det1_5d-D_both_region.pdf)
 
 
 ##### [det1\_5d-L](DET1/7dm/GSE112951/det1_5d-L)
