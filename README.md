@@ -74,7 +74,7 @@ This folder containing the annotated enhancers regions gathered by chromosome
 4. [enhancer\_chr4\_peaks.txt](ArabidopsisGenome/BM3120/8dm/PeakEnhancers/enhancer_chr4_peaks.txt)
 5. [enhancer\_chr5\_peaks.txt](ArabidopsisGenome/BM3120/8dm/PeakEnhancers/enhancer_chr5_peaks.txt)
 
-## Remap2020
+## [Remap2020](Remap2020)
 
 This folder containing all the raw peaks corresponding to the protein DET1 and cell line Col-0-seedling collected from [Remap2020](https://remap2020.univ-amu.fr/).
 
