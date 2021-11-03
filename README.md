@@ -124,9 +124,9 @@ This folder containing the annotated ChIPseq models through the corresponding ba
 
 ###### [Figures](DET1/7dm/GSE112951/5d-L/Figures)
 
-1. grid\_relatFreq\_zScores\_GSE112951\_Col-0-seedling\_5d-L\_region.pdf
-2. relativeFreq\_GSE112951\_Col-0-seedling\_5d-L\_both\_region.pdf
-3. zScores\_GSE112951\_Col-0-seedling\_5d-L\_both\_region.pdf
+1. [grid\_relatFreq\_zScores\_GSE112951\_Col-0-seedling\_5d-L\_region.pdf](DET1/7dm/GSE112951/5d-L/Figures/grid_relatFreq_zScores_GSE112951_Col-0-seedling_5d-L_region.pdf)
+2. [relativeFreq\_GSE112951\_Col-0-seedling\_5d-L\_both\_region.pdf](DET1/7dm/GSE112951/5d-L/Figures/relativeFreq_GSE112951_Col-0-seedling_5d-L_both_region.pdf)
+3. [zScores\_GSE112951\_Col-0-seedling\_5d-L\_both\_region.pdf](DET1/7dm/GSE112951/5d-L/Figures/zScore_GSE112951_Col-0-seedling_5d-L_both_region.pdf)
 
 ##### [det1\_5d-D](DET1/7dm/GSE112951/det1_5d-D)
 
