@@ -2,14 +2,10 @@
 
 ## ArabidopsisGenome
 
-<<<<<<< Updated upstream
-1. listFirstGenes.py
-=======
 This folder contains the files used in this work, which contain all the information collected from different public resources and bibliography on the genes, genome, gaps and enhancers of _Arabidoposis thaliana_, assembly TAIR10. 
 
 1. listFirstGenes.PY
     * List of genes obtained directly from the [Ensembl plants Biomart](https://plants.ensembl.org/index.html) search tool. These genes belong to chr1, chr2, chr3, chr4, chr5, chrMt and chrPt.
->>>>>>> Stashed changes
 2. listProcessGenes.txt
     * List of genes in the above file with their corresponding canonical transcript ID according to the Ensembl plants database.
 3. dataGeneModel.gff3
