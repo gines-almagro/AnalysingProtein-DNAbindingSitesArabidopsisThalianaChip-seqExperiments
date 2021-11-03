@@ -1,20 +1,20 @@
 # Analysing the protein-DNA binding sites in _Arabidopsis thaliana_ from ChIP-seq experiments
 
-## ArabidopsisGenome
+## [ArabidopsisGenome](ArabidopsisGenome)
 
 This folder contains the files used in this work, which contain all the information collected from different public resources and bibliography on the genes, genome, gaps and enhancers of _Arabidoposis thaliana_, assembly TAIR10. 
 
 1. [listFirstGenes.PY](ArabidopsisGenome/listFirstGenes.py)
     * List of genes obtained directly from the [Ensembl plants Biomart](https://plants.ensembl.org/index.html) search tool. These genes belong to chr1, chr2, chr3, chr4, chr5, chrMt and chrPt.
-2. listProcessGenes.txt
+2. [listProcessGenes.txt](ArabidopsisGenome/listProcessGenes.txt)
     * List of genes in the above file with their corresponding canonical transcript ID according to the Ensembl plants database.
-3. dataGeneModel.gff3
+3. [dataGeneModel.gff3](ArabidopsisGenome/dataGeneModel.gff3)
     * A tab-delimited text file containing information about the gene, transcript and exons of each of the processed genes.
-4. enhancersRaw.txt
+4. [enhancersRaw.txt](ArabidopsisGenome/enhancersRaw.txt)
     * List of enhancers obtained in the work of [Zhu,B et al](https://academic.oup.com/plcell/article/27/9/2415/6206353).
-5. gaps.txt
+5. [gaps.txt](ArabidopsisGenome/gaps.txt)
     * File extracted directly from the [UCSC](https://genome.ucsc.edu/goldenPath/help/examples/hubExamples/hubAssembly/plantAraTha1/araTha1/gap.html) resource containing all the gaps of the genome under study. 
-6. gapsTair10.py
+6. [gapsTair10.py](ArabidopsisGenome/gapsTair10.py)
     * File derived from the previous one containing the gaps of the genome under study with a length greater than 10 nucleotides.
 
 ### Processed
