@@ -29,9 +29,9 @@ This folder contains the gene models gathered by chromosome, describing the exte
 6. [gene\_chrMt\_processed.bed](ArabidopsisGenome/Processed/gene_chrMt_processed.bed)
 7. [gene\_chrPt\_processed.bed](ArabidopsisGenome/Processed/gene_chrPt_processed.bed)
 
-### BM3120
+### [BM3120](ArabidopsisGenome/BM3120)
 
-#### 7dm
+#### [7dm](ArabidopsisGenome/BM3120/7dm)
 
 This folder containing the background models for the genome model with 7 kinds of genomic features {promoter>proximal>cleavage>splice>exon>intron>intergenic}.
 
@@ -40,12 +40,12 @@ This folder containing the background models for the genome model with 7 kinds o
 2. count\_genome\_both\_model.txt
     * A tab-delimited text file for both strands with the annotated binding sites count by each type of genomic feature and chromosome
 
-##### GM
+##### [GM](ArabidopsisGenome/BM3120/7dm/GM)
 
 1. count\_gene\_model.txt
     * A tab-delimited text file with the annotated binding sites count by each type of genomic feature for every background gene
 
-###### AnnotatedGenes
+###### [AnnotatedGenes](ArabidopsisGenome/BM3120/7dm/GM/AnnotaeGenes)
 
 This folder containing the background genes gathered by chromosome
 
@@ -55,7 +55,7 @@ This folder containing the background genes gathered by chromosome
 4. gene\_chr4\_annotated.txt
 5. gene\_chr5\_annotated.txt
 
-#### 8dm
+#### [8dm](ArabidopsisGenome/BM3120/8dm)
 
 This folder containing the background models for the genome model with 8 kinds of genomic features {promoter>proximal>enhancer>cleavage>splice>exon>intron>intergenic}.
 
@@ -64,7 +64,7 @@ This folder containing the background models for the genome model with 8 kinds o
 2. count\_genome\_both\_model.txt
     * A tab-delimited text file for both strands with the annotated binding sites count by each type of genomic feature and chromosome
 
-##### PeakEnhancers
+##### [PeakEnhancers](ArabidopsisGenome/BM3120/8dm/PeakEnhancers)
 
 This folder containing the annotated enhancers regions gathered by chromosome
 
