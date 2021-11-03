@@ -45,7 +45,7 @@ This folder containing the background models for the genome model with 7 kinds o
 1. count\_gene\_model.txt
     * A tab-delimited text file with the annotated binding sites count by each type of genomic feature for every background gene
 
-###### [AnnotatedGenes](ArabidopsisGenome/BM3120/7dm/GM/AnnotaeGenes)
+###### [AnnotatedGenes](ArabidopsisGenome/BM3120/7dm/GM/AnnotatedGenes)
 
 This folder containing the background genes gathered by chromosome
 
