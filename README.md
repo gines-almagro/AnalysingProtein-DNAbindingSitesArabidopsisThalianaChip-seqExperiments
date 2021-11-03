@@ -104,10 +104,10 @@ This folder containing the annotated ChIPseq models through the corresponding ba
 
 ##### [5d-D](DET1/7dm/GSE112951/5d-D)
 
-1. annotated\_peaks\_GSE112951\_Col-0-seedling\_5d-D\_both\_region.txt
-2. counting\_GSE112951\_Col-0-seedling\_5d-D\_both\_region.txt
-3. characteristic\_profile\_GSE112951\_Col-0-seedling\_5d-D\_both\_region.txt
-4. goodness\_test\_GSE112951\_Col-0-seedling\_5d-D\_both\_region.txt
+1. [annotated\_peaks\_GSE112951\_Col-0-seedling\_5d-D\_both\_region.txt](DET1/7dm/GSE112951/5d-D/annotated_peaks_GSE112951_Col-0-seedling_5d-D_both_region.txt)
+2. [counting\_GSE112951\_Col-0-seedling\_5d-D\_both\_region.txt](DET1/7dm/GSE112951/5d-D/counting_GSE112951_Col-0-seedling_5d-D_both_region.txt)
+3. [characteristic\_profile\_GSE112951\_Col-0-seedling\_5d-D\_both\_region.txt](DET1/7dm/GSE112951/5d-D/characteristic_profile_GSE112951_Col-0-seedling_5d-D_both_region.txt)
+4. [goodness\_test\_GSE112951\_Col-0-seedling\_5d-D\_both\_region.txt](DET1/7dm/GSE112951/5d-D/goodness_test_GSE112951_Col-0-seedling_5d-D_both_region.txt)
 
 ###### [Figures](DET1/7dm/GSE112951/5d-D/Figures)
 
