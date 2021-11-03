@@ -174,13 +174,13 @@ A folder containing the comparisons between the different ChIPseq model pairs fo
 
 ###### [Figures](DET1/7dm/GSE112951/Analysis/Figures)
 
-1. gridmultipleAccumContrbHomogeneityJoint\_GSE112951\_Col-0-seedling\_both\_region.pdf
-2. accumContrbsquar\_Col-0-seedling\_DET1-5d-D\_DET1-det1\_5d-L\_both\_region.pdf
-3. accumContrbsquar\_Col-0-seedling\_DET1-5d-D\_DET1-det1\_5d-D\_both\_region.pdf
-4. accumContrbsquar\_Col-0-seedling\_DET1-5d-L\_DET1-5d-D\_both\_region.pdf
-5. accumContrbsquar\_Col-0-seedling\_DET1-5d-L\_DET1-det1\_5d-L\_both\_region.pdf
-6. accumContrbsquar\_Col-0-seedling\_DET1-5d-L\_DET1-det1\_5d-D\_both\_region.pdf
-2. accumContrbsquar\_Col-0-seedling\_DET1-det1\_5d-D\_DET1-det1\_5d-L\_both\_region.pdf
+1. [gridmultipleAccumContrbHomogeneityJoint\_GSE112951\_Col-0-seedling\_both\_region.pdf](DET1/7dm/GSE112951/Analysis/Figures/gridmultipleAccumContrbHomogeneityJoint_GSE112951_Col-0-seedling_both_region.pdf)
+2. [accumContrbsquar\_Col-0-seedling\_DET1-5d-D\_DET1-det1\_5d-L\_both\_region.pdf](DET1/7dm/GSE112951/Analysis/Figures/accumContrbSquar_Col-0-seedling_DET1-5d-D_DET1-det1_5d-L_both_region.pdf)
+3. [accumContrbsquar\_Col-0-seedling\_DET1-5d-D\_DET1-det1\_5d-D\_both\_region.pdf](DET1/7dm/GSE112951/Analysis/Figures/accumContrbSquar_Col-0-seedling_DET1-5d-D_DET1-det1_5d-D_both_region.pdf)
+4. [accumContrbsquar\_Col-0-seedling\_DET1-5d-L\_DET1-5d-D\_both\_region.pdf](DET1/7dm/GSE112951/Analysis/Figures/accumContrbSquar_Col-0-seedling_DET1-5d-L_DET1-5d-D_both_region.pdf)
+5. [accumContrbsquar\_Col-0-seedling\_DET1-5d-L\_DET1-det1\_5d-L\_both\_region.pdf](DET1/7dm/GSE112951/Analysis/Figures/accumContrbSquar_Col-0-seedling_DET1-5d-L_DET1-det1_5d-L_both_region.pdf)
+6. [accumContrbsquar\_Col-0-seedling\_DET1-5d-L\_DET1-det1\_5d-D\_both\_region.pdf](DET1/7dm/GSE112951/Analysis/Figures/accumContrbSquar_Col-0-seedling_DET1-5d-L_DET1-det1_5d-D_both_region.pdf)
+2. [accumContrbsquar\_Col-0-seedling\_DET1-det1\_5d-D\_DET1-det1\_5d-L\_both\_region.pdf](DET1/7dm/GSE112951/Analysis/Figures/accumContrbSquar_Col-0-seedling_DET1-det1_5d-D_DET1-det1_5d-L_both_region.pdf)
 
 ### 8dm
 
